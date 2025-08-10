@@ -269,3 +269,31 @@ body::-webkit-scrollbar {
   border: none;
   border-radius: 6px;
 }
+
+.foot-cont2 {
+  background-color: #404040;
+}
+.sub-f-cont2 {
+  margin: 0 150px;
+  display: flex;
+  justify-content: space-around;
+}
+.sub-f-cont2 img {
+  height: 80px;
+}
+.crs {
+  padding: 16px;
+}
+.BMS-end {
+  background-color: #333333;
+  display: flex;
+  justify-content: space-around;
+}
+.end-line {
+  padding-top: 50px;
+  height: 65px;
+  width: 666px;
+}
+.bms-logo1 {
+  padding-top: 45px;
+}
