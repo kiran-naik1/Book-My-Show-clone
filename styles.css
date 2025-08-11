@@ -1,6 +1,7 @@
 * {
   margin-left: 0;
   margin-right: 0;
+  margin-bottom: 0;
   padding-left: 0;
   padding-right: 0;
 }
@@ -269,7 +270,6 @@ body::-webkit-scrollbar {
   border: none;
   border-radius: 6px;
 }
-
 .foot-cont2 {
   background-color: #404040;
 }
@@ -285,7 +285,7 @@ body::-webkit-scrollbar {
   padding: 16px;
 }
 .BMS-end {
-  background-color: #333333;
+  background-color: #2f2f2ff8;
   display: flex;
   justify-content: space-around;
 }
@@ -296,4 +296,29 @@ body::-webkit-scrollbar {
 }
 .bms-logo1 {
   padding-top: 45px;
+}
+/* social media */
+.social-med {
+  background-color: #2f2f2ff8;
+}
+.social-med svg {
+  width: 37px;
+  fill: #5c5c5cfa;
+}
+svg:hover {
+  fill: white;
+}
+.bwc__sc-au4qa5-28 {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+.credits {
+  padding: 32px 64px 48px 64px;
+  text-align: center;
+}
+.credits p {
+  margin: 0;
+  color: #5c5c5cfa;
+  font-size: 12px;
 }
